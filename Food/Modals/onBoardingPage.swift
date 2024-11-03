@@ -20,3 +20,7 @@ var Data = [
     Page(id: 2, image: "pick", title: "Your Food is on the way", descrip: "We make it simple to find the food you crave. Enter your  home addresse and let us do the rest.")
 ]
 
+
+
+
+
